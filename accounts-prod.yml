@@ -2,7 +2,7 @@ build:
  version: "2.0"   
 
 accounts:
- message: "Welcome to eazybank accounts API : PROD"
+ message: "Welcome to eazybank accounts API : PRODUCTION"
  contactDetails:
   name: "Shouvik Sarkar"
   email: "Shouvik0001@gmail.com"
