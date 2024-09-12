@@ -1,0 +1,11 @@
+build:
+ version: "2.0"   
+ 
+accounts:
+ message: "Welcome to eazybank accounts API : QA"
+ contactDetails:
+  name: "Shouvik Sarkar"
+  email: "Shouvik0001@gmail.com"
+ onCallSupport:
+  - (+91)9477422708
+  - (+44)7741946867
