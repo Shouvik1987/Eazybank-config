@@ -2,7 +2,7 @@ build:
  version: "1.3"
 
 loans:
- message: "Loans GITPROD1"
+ message: "Loans GITPROD2"
  contactDetails:
   name: "SS"
   email: "ss@ss.com"
