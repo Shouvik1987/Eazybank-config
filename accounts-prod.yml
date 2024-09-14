@@ -2,7 +2,7 @@ build:
  version: "2.0"   
 
 accounts:
- message: "Welcome to eazybank accounts API : PRODUCTION"
+ message: "Welcome to eazybank accounts API : GITPROD"
  contactDetails:
   name: "Shouvik Sarkar"
   email: "{cipher}ba134ead7ed0296f30d4a737cd0fb61fe95a61be1c0ab0536f8207a7ae9900c73fd11d22b11236934a8d0967719ac757"
